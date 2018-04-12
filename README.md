@@ -1,5 +1,5 @@
 # Word-Jumble-Game
-A little game I made.
+A Two player word jumble game, made in Python
 
 It asks the first player to enter a word. (It hides the word that is being inputted so that the second player cannot see the word)
 
